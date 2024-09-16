@@ -1,1 +1,5 @@
 # ProjetoVendedorDeCoco
+
+1.	O projeto visou criar um sistema de gerenciamento de vendas e estoque para um vendedor local de coco que utilizava um caderno para suas operações. A participação envolveu a aplicação dos conhecimentos de programação em Python, oferecendo uma solução prática e tecnológica para automatizar tarefas do microempreendedor. A interação com a comunidade local foi crucial para adaptar a solução às necessidades específicas do vendedor.
+2.	A metodologia utilizada foi a pesquisa-ação, com encontros para identificar os problemas enfrentados pelo vendedor. Desenvolvi um sistema simples em Python. O sistema foi testado e ajustado de acordo com o feedback do vendedor, que participou ativamente do processo.
+3.	O sistema automatizou o controle de vendas, estoque e geração de relatórios mensais. O vendedor relatou uma melhora significativa na gestão do seu negócio, economizando tempo e evitando erros manuais. As principais dificuldades envolveram simplificar o sistema para que ele fosse fácil de usar, mas o projeto foi bem-sucedido em atender às expectativas e contribuir para a organização do microempreendedor.
